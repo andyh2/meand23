@@ -1,0 +1,5 @@
+ios/
+src/meand23/creds.py
+*.pyc
+*.egg-info
+dist/
